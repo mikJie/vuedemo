@@ -1,0 +1,14 @@
+.cityStyle{
+  height: 10rem;padding-left: 1rem;
+}
+.cityStyle select{
+  padding: 0;
+  height: 3rem;
+  width: 6rem;
+}
+.cityStyle select option{
+  width: 6rem;
+}
+.commontTxt{
+  text-align: center;
+}
